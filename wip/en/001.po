@@ -58,4 +58,4 @@ msgstr "Buddhas and sentient beings are my charnel ground."
 
 msgctxt "6f779a323e2c442aacd3bfd262f45605"
 msgid "། ཀུན་ བྱེད་ ང་ ནི་ སྣང་བ་ རང་ གསལ་ ཆེ །"
-msgstr "I, All-Doer, [am the] great self-clarity of appearance. "
+msgstr "I, All-Doer, [am the] སྣང་བ་ རང་ གསལ་ ཆེ. "
