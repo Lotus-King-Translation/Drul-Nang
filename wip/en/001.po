@@ -22,11 +22,11 @@ msgstr "All abiding confused appearances are my mind."
 
 msgctxt "11919e30dac04a579338084e0ccefb32"
 msgid "། ཐམས་ཅད་ སྣང་བ་ འཁྲུལ་སྣང་ ང་ ཡི་ སྐུ །"
-msgstr ""
+msgstr "All appearing confused appearances are my body."
 
 msgctxt "7c01905e0fd045ceab8b20c873122bf4"
 msgid "། ཐམས་ཅད་ འགག་པ་ འཁྲུལ་སྣང་ ང་ ཡི་ གསུང༌ །"
-msgstr ""
+msgstr "All ceasing confused appearances are my speech."
 
 msgctxt "a364f7446b93469ea2101efdeefae475"
 msgid "། མཐོང་བ་ མ་ འགག་␣ས་ ང་ ཡི་ གཟུགས་ ལྟར་ སྣང༌ །"
