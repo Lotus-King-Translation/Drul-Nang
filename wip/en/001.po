@@ -38,7 +38,7 @@ msgstr "Unceasing hearing sounds as my speech."
 
 msgctxt "6467b08c91cc4b22888f86e510880641"
 msgid "། སྣོམ་བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ དྲི་ ལྟར་ ཚོར །"
-msgstr ""
+msgstr "Unceasing smelling ཚོར as my fragnance."
 
 msgctxt "3fb55574b8054874995e3c6845f7029f"
 msgid "། མྱོང་ བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ རོ་ ལྟར་ བདའ །"
