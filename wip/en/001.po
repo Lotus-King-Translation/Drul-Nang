@@ -30,7 +30,7 @@ msgstr "All ceasing confused appearances are my speech."
 
 msgctxt "a364f7446b93469ea2101efdeefae475"
 msgid "། མཐོང་བ་ མ་ འགག་␣ས་ ང་ ཡི་ གཟུགས་ ལྟར་ སྣང༌ །"
-msgstr "Unceasing seeing is like by body."
+msgstr "Unceasing seeing appears as my body."
 
 msgctxt "2935a41a941448b4b0bf353aad97a000"
 msgid "། ཐོས་པ་ མ་ འགག་␣ས་ ང་ ཡི་ སྒྲ་ ལྟར་ གྲག"
