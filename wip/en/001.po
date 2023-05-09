@@ -54,7 +54,7 @@ msgstr "Secret afflictions are my magical emanations."
 
 msgctxt "4cd8488a16094a1cbd7c5831ca9a8238"
 msgid "། སངས་རྒྱས་ སེམས་ཅན་ ང་ ཡི་ དུར་ས་ ཡིན །"
-msgstr ""
+msgstr "Buddhas and sentient beings are my charnel ground."
 
 msgctxt "6f779a323e2c442aacd3bfd262f45605"
 msgid "། ཀུན་ བྱེད་ ང་ ནི་ སྣང་བ་ རང་ གསལ་ ཆེ །"
