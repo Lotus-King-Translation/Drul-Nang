@@ -34,7 +34,7 @@ msgstr "Unceasing seeing appears as my body."
 
 msgctxt "2935a41a941448b4b0bf353aad97a000"
 msgid "། ཐོས་པ་ མ་ འགག་␣ས་ ང་ ཡི་ སྒྲ་ ལྟར་ གྲག"
-msgstr ""
+msgstr "Unceasing hearing sounds as my speech."
 
 msgctxt "6467b08c91cc4b22888f86e510880641"
 msgid "། སྣོམ་བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ དྲི་ ལྟར་ ཚོར །"
