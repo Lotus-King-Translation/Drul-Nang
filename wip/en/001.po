@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "0509ab2360014d4292e637062af127eb"
 msgid "། ཐམས་ཅད་ འབྱུང་ ཞིང་ འཁྲུལ་སྣང་ ང་ ཡི་ སེམས །"
-msgstr ""
+msgstr "All arising confused appearances are my mind."
 
 msgctxt "6ab4e0da60fa45009d7334a0fa18c030"
 msgid "། ཐམས་ཅད་ གནས་པ་ འཁྲུལ་སྣང་ ང་ ཡི་ ཐུགས །"
