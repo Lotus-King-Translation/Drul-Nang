@@ -38,7 +38,7 @@ msgstr "Unceasing hearing sounds as my speech."
 
 msgctxt "6467b08c91cc4b22888f86e510880641"
 msgid "། སྣོམ་བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ དྲི་ ལྟར་ ཚོར །"
-msgstr "Unceasing smelling ཚོར as my fragnance."
+msgstr "Unceasing smelling is the whiff of my fragrance."
 
 msgctxt "3fb55574b8054874995e3c6845f7029f"
 msgid "། མྱོང་ བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ རོ་ ལྟར་ བདའ །"
@@ -46,11 +46,11 @@ msgstr "Unceasing tasting savors as my flavor."
 
 msgctxt "db2815b693c04c7e90530ca677be007d"
 msgid "། ཚོར་ བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ ཡིད་ ལྟར་ མགྱོགས །"
-msgstr ""
+msgstr "Unceasing sensation is quick as my mind."
 
 msgctxt "dae4e227745241d6a70e915b3dd7395e"
 msgid "། གསང་བ་␣འི་ ཉོན་མོངས་ ང་ ཡི་ ཆོ་འཕྲུལ་ ཏེ །"
-msgstr ""
+msgstr "Secret afflictions are my magical emanations."
 
 msgctxt "4cd8488a16094a1cbd7c5831ca9a8238"
 msgid "། སངས་རྒྱས་ སེམས་ཅན་ ང་ ཡི་ དུར་ས་ ཡིན །"
