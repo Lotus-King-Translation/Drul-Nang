@@ -58,4 +58,4 @@ msgstr "Buddhat ja olennot ovat kalmistoni."
 
 msgctxt "6f779a323e2c442aacd3bfd262f45605"
 msgid "། ཀུན་ བྱེད་ ང་ ནི་ སྣང་བ་ རང་ གསལ་ ཆེ །"
-msgstr ""
+msgstr "Minä, Kaiken-Tekijä, olen suuri itsevalaiseva ilmentymä. "
