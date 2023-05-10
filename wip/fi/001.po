@@ -26,7 +26,7 @@ msgstr "Kaikki ilmenevät hämmentyneet ilmentymät ovat kehoni. "
 
 msgctxt "7c01905e0fd045ceab8b20c873122bf4"
 msgid "། ཐམས་ཅད་ འགག་པ་ འཁྲུལ་སྣང་ ང་ ཡི་ གསུང༌ །"
-msgstr "Kaikki päättyvät hämmentyneet ilmentymät ovat puheeni."
+msgstr "Lakkaamaton näkeminen ilmestyy kehonani."
 
 msgctxt "a364f7446b93469ea2101efdeefae475"
 msgid "། མཐོང་བ་ མ་ འགག་␣ས་ ང་ ཡི་ གཟུགས་ ལྟར་ སྣང༌ །"
