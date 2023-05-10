@@ -30,11 +30,11 @@ msgstr "Kaikki päättyvät hämmentyneet ilmentymät ovat puheeni."
 
 msgctxt "a364f7446b93469ea2101efdeefae475"
 msgid "། མཐོང་བ་ མ་ འགག་␣ས་ ང་ ཡི་ གཟུགས་ ལྟར་ སྣང༌ །"
-msgstr "Lakkaamaton näkeminen ilmestyy kehonani."
+msgstr "Lakkaamaton näkeminen ilmenee kehonani."
 
 msgctxt "2935a41a941448b4b0bf353aad97a000"
 msgid "། ཐོས་པ་ མ་ འགག་␣ས་ ང་ ཡི་ སྒྲ་ ལྟར་ གྲག"
-msgstr ""
+msgstr "Lakkaamaton kuuleminen ilmenee puheenani."
 
 msgctxt "6467b08c91cc4b22888f86e510880641"
 msgid "། སྣོམ་བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ དྲི་ ལྟར་ ཚོར །"
