@@ -46,7 +46,7 @@ msgstr "Lakkaamaton tunteminen on vikkelä kuin mieleni."
 
 msgctxt "db2815b693c04c7e90530ca677be007d"
 msgid "། ཚོར་ བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ ཡིད་ ལྟར་ མགྱོགས །"
-msgstr ""
+msgstr "Salaiset häiriötekijät ovat maagisia emanaatioitani. "
 
 msgctxt "dae4e227745241d6a70e915b3dd7395e"
 msgid "། གསང་བ་␣འི་ ཉོན་མོངས་ ང་ ཡི་ ཆོ་འཕྲུལ་ ཏེ །"
