@@ -42,7 +42,7 @@ msgstr "Lakkaamaton haistaminen tuoksuu tuoksunani."
 
 msgctxt "3fb55574b8054874995e3c6845f7029f"
 msgid "། མྱོང་ བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ རོ་ ལྟར་ བདའ །"
-msgstr ""
+msgstr "Lakkaamaton tunteminen on vikkelä kuin mieleni."
 
 msgctxt "db2815b693c04c7e90530ca677be007d"
 msgid "། ཚོར་ བྱེད་ མ་ འགག་␣ས་ ང་ ཡི་ ཡིད་ ལྟར་ མགྱོགས །"
