@@ -18,7 +18,7 @@ msgstr "Nousevat hämmentyneet ilmentymät ovat mieleni."
 
 msgctxt "6ab4e0da60fa45009d7334a0fa18c030"
 msgid "། ཐམས་ཅད་ གནས་པ་ འཁྲུལ་སྣང་ ང་ ཡི་ ཐུགས །"
-msgstr "Kaikki olevat hämmentyneet ilmentymät ovat mieleni."
+msgstr "Olevat hämmentyneet ilmentymät ovat mieleni."
 
 msgctxt "11919e30dac04a579338084e0ccefb32"
 msgid "། ཐམས་ཅད་ སྣང་བ་ འཁྲུལ་སྣང་ ང་ ཡི་ སྐུ །"
